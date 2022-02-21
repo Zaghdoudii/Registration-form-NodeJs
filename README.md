@@ -1,6 +1,6 @@
 # Registration-form-NodeJs
-#Team project
-SAHA YA BECHIIIIIR HEEEEEEEEEy
+#Team_project :)
+
 A simple registration form : 
 * NodeJS 
 * library : Express  

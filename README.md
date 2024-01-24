@@ -1,5 +1,2 @@
-# Registration-form-NodeJs
-A simple registration form : 
-* NodeJS 
-* library : Express  
-
+<h2> Regsistration form </h2>
+A simple registration form using <b>NodeJs</b> and the <b>Express library</b>.
